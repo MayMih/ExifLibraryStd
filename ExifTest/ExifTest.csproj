@@ -92,12 +92,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExifLibrary\ExifLibrary.csproj">
-      <Project>{e1edb2a4-1091-4e86-90cb-5dd8f277fb55}</Project>
-      <Name>ExifLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\delete_x_24.png" />
     <None Include="Resources\favorites_24.png" />
     <None Include="Resources\new_document_24.png" />
